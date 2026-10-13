@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "x": "sTyYLBHumJEH9P0yv6UpVV1adAD3uPZfJ9COurs1jAg",
+      "kid": "battlemap",
+      "alg": "EdDSA",
+      "use": "sig"
+    }
+  ]
+}
