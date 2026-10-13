@@ -1,0 +1,28 @@
+{
+  "keys": [
+    {
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "x": "G-LLg4y7Ue6C4Qk-thGTYUBknnCVio6IzbI68QIRRnU",
+      "kid": "rune-1",
+      "alg": "EdDSA",
+      "use": "sig"
+    },
+    {
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "x": "Yv3n6JIhkgOuxZ7od24_DEa5dg9hsSA1sWA4H0Hpt4w",
+      "kid": "rune-2",
+      "alg": "EdDSA",
+      "use": "sig"
+    },
+    {
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "x": "jwRd-xi_giw2aSc5WThCVcRUFoNydLR_ZgZ4KUubE5U",
+      "kid": "rune-3",
+      "alg": "EdDSA",
+      "use": "sig"
+    }
+  ]
+}
