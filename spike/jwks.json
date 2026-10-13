@@ -1,0 +1,21 @@
+{
+  "keys": [
+    {
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "x": "XRdbDg1Zd_jDPIYlG-kI14GYdoGgKMO-VEN87HC15TU",
+      "kid": "spike-ed",
+      "alg": "EdDSA",
+      "use": "sig"
+    },
+    {
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "YGBhi4Iu9ggBixH7CEt1DM4pvXSjtOJtAM5fWmZEnH8",
+      "y": "Mq0SQSsf_6Aik9W5Qd6PlDVxDGvofpyfHZZmzAE131A",
+      "kid": "spike-es",
+      "alg": "ES256",
+      "use": "sig"
+    }
+  ]
+}
