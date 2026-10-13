@@ -1,0 +1,1 @@
+{"id_token_signing_alg_values_supported":["EdDSA"],"issuer":"https://btrepp.github.io/id/operators","jwks_uri":"https://btrepp.github.io/id/operators/jwks.json","response_types_supported":["id_token"],"subject_types_supported":["public"]}

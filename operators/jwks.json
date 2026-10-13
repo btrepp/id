@@ -1,0 +1,20 @@
+{
+  "keys": [
+    {
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "x": "0kEK3ysHj2S6jJ2TSC_fDtz7H3-OTLcDCWxNifwf_Ys",
+      "kid": "beau-bazzite",
+      "alg": "EdDSA",
+      "use": "sig"
+    },
+    {
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "x": "Ydr6QMGKACuRPLW-PuMZbdnbctVGy-lgUC1rr5Rclmw",
+      "kid": "beau-mac",
+      "alg": "EdDSA",
+      "use": "sig"
+    }
+  ]
+}
