@@ -23,14 +23,6 @@
       "kid": "dev-3",
       "alg": "EdDSA",
       "use": "sig"
-    },
-    {
-      "kty": "OKP",
-      "crv": "Ed25519",
-      "x": "mOdH4rB5htuCMv13fAy1tz7PUc9EAL5rjWuFsMEZ7Vo",
-      "kid": "dev-4",
-      "alg": "EdDSA",
-      "use": "sig"
     }
   ]
 }
